@@ -182,9 +182,7 @@ The completed source code will be hosted in a GitHub repository.
 
 **Repository Name:** `UniversityOpenDayWebsite`
 
-**Repository URL:**
-
-Add your GitHub repository URL here after uploading the project.
+**Repository URL:** https://github.com/HoneyBadger-3/UniversityOpenDayWebsite.git
 
 ---
 
@@ -192,9 +190,7 @@ Add your GitHub repository URL here after uploading the project.
 
 The website will be published online using GitHub Pages.
 
-**Live Website URL:**
-
-Add your GitHub Pages URL here after deployment.
+**Live Website URL:** https://honeybadger-3.github.io/UniversityOpenDayWebsite/
 
 ---
 

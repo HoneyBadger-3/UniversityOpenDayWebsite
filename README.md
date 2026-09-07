@@ -200,9 +200,6 @@ The website will be published online using GitHub Pages.
 
 **Project:** University Open Day Information Website
 
-**Course:** Occupational Certificate: Software Developer
-
-**Year:** 2026
 
 ---
 
